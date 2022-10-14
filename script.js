@@ -1,6 +1,6 @@
 const container = document.querySelector('#container')
 const thanksContainer = document.querySelector('.container2')
-const submitButton = document.querySelector('#submit')
+const submitButton = document.querySelector('.submit')
 const rateAgain = document.getElementById('rate-again')
 const rating = document.getElementById("rating")
 const numbers = document.querySelectorAll(".numbers")
