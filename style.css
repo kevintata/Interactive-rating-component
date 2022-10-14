@@ -142,6 +142,10 @@ color: #fff;
     text-align: center;
 }
 
+.container2>img{
+    margin-top: -20px;
+}
+
 .container2>header{
     margin-top: -15px;
     margin-bottom: 20px;
@@ -186,13 +190,17 @@ color: #fff;
 }
 
 #thankyouimg{
-    margin-top: 30px;
+    margin-top: 10px;
+}
+
+#rate-again{
+    margin-top: 15px;
 }
 
 #rate-again>button{
     text-align: center;
     width: 350px;
-    height: 40px;
+    height: 45px;
     background: var(--Orange);
     border-radius: 50px;
     border: none;
